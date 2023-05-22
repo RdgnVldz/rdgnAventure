@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rdgnAdventure/static/css/main.68591392.css",
+    "main.js": "/rdgnAdventure/static/js/main.a3206deb.js",
+    "static/media/img-2.jpg": "/rdgnAdventure/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-home.jpg": "/rdgnAdventure/static/media/img-home.c034239ee9a63564602b.jpg",
+    "static/media/img-8.jpg": "/rdgnAdventure/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "/rdgnAdventure/index.html",
+    "main.68591392.css.map": "/rdgnAdventure/static/css/main.68591392.css.map",
+    "main.a3206deb.js.map": "/rdgnAdventure/static/js/main.a3206deb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68591392.css",
+    "static/js/main.a3206deb.js"
+  ]
+}
